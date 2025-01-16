@@ -853,7 +853,7 @@
     margin-top: -150px;
   }
   #es-rc-content.es-rc .es-lemonade__content--3 {
-    margin-top: -150px;
+    margin-top: -50px;
   }
   #es-rc-content.es-rc .es-lemonade__image--grapefruit {
     margin-top: 50px;
@@ -1099,6 +1099,15 @@
     top: 64%;
     left: 13%;
   }
+  #es-rc-content.es-rc .es-lemonade__content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 30px;
+  }
+  #es-rc-content.es-rc .es-lemonade__content--2 {
+    margin-top: -100px;
+  }
 }
 @media screen and (min-width: 1200px) {
   #es-rc-content.es-rc .es-kv {
@@ -1206,9 +1215,9 @@
     margin-right: 7%;
   }
   #es-rc-content.es-rc .es-lemonade__image--grapefruit {
-    margin-top: -8%;
-    margin-right: 12%;
-    max-width: 44%;
+    margin-top: -3%;
+    margin-right: 19%;
+    max-width: 41%;
   }
   #es-rc-content.es-rc .es-triple {
     margin-top: -250px;

@@ -1086,7 +1086,7 @@ $bg-primary: #e8e2d4;
         }
 
         &--3 {
-          margin-top: -150px;
+          margin-top: -50px;
         }
       }
 
@@ -1434,6 +1434,19 @@ $bg-primary: #e8e2d4;
         }
       }
     }
+
+    .es-lemonade {
+      &__content {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-left: 30px;
+
+        &--2 {
+          margin-top: -100px;
+        }
+      }
+    }
   }
 
   @media screen and (min-width: 1200px) {
@@ -1593,9 +1606,9 @@ $bg-primary: #e8e2d4;
 
       &__image {
         &--grapefruit {
-          margin-top: -8%;
-          margin-right: 12%;
-          max-width: 44%;
+          margin-top: -3%;
+          margin-right: 19%;
+          max-width: 41%;
         }
       }
     }
